@@ -2104,7 +2104,7 @@ int main(int argc, char *argv[]){
     time_use = (double)(end - start) / CLOCKS_PER_SEC;
     cout << "[ ] Time: " << time_use << '\n';
 
-    Nhap_output();
+    // Nhap_output();
 
     // xuat_test();
 
